@@ -1,6 +1,6 @@
-#CODEBOOK for Getting and Cleaning Data Project
+# Codebook for Getting and Cleaning Data Project
 
-#Source Data
+# Source Data
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The data is A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -8,9 +8,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here is the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#File with R code "run_analysis.R" will perform steps 1-5 outlines in the readme.md link in repository
+# File with R code "run_analysis.R" will perform steps 1-5 outlines in the readme.md link in repository
 
-#Code Variables
+# Code Variables
 
 x_Train, y_Train, subject_Train, x_Test, y_Test, subject_Test are the downloaded files associated from the zip link above.  Each variable name has the same name as the file associated in the download.
 
