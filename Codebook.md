@@ -8,7 +8,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here is the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-# File with R code "run_analysis.R" will perform steps 1-5 outlines in the readme.md link in repository
+# R file(code)
+
+File with R code "run_analysis.R" will perform steps 1-5 outlines in the readme.md link in repository
 
 # Code Variables
 
